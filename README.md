@@ -1,3 +1,4 @@
+
 # LITA_CAPSTONE_PROJECT-SALES-DATA
 Referring to the Capstone Project Document, carry out the following exploratory process and tell a compelling story by building an interactive dashboard report to gather insight and make business decisions.
 
@@ -64,3 +65,4 @@ The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet wa
 
 ### Calculation in Excel
 - Generating Total Sales (=F2*G2)
+- ![Total Sales for Sales Data](https://github.com/user-attachments/assets/7e90ba29-a176-4cd1-8c8b-9d03c9361b0e)
