@@ -150,7 +150,7 @@ Indicates steady purchasing activity.
 
 ## RECOMMENDATION:
 
-- Region Comparison: Implement targeted marketing strategies, campaigns or advert to create more awareness in the North and West regions especially so as to curate more sales and generate more revenue
+- Region Comparison: Implement targeted marketing strategies, campaigns, or adverts to create more awareness in the North and West regions especially so as to curate more sales and generate more revenue
 
 - Sales Optimization: Make the most effective use of the market trend by stocking more items with lead revenue-generating power which are (Shoes and Shirts)
 
