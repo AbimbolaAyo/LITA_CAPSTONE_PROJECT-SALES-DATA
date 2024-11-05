@@ -77,7 +77,7 @@ The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet wa
 - calculating average sales by product  =AVERAGEIF($C1:$C50001,$C2,$H1:$H50001)
 - ![Project 4](https://github.com/user-attachments/assets/d20ff639-09ae-4d4d-a0aa-9525fa845a04)
 
-- calculating total revenue by region  ==SUMIF($D1:$D50001,$D12630,$H1:$H50001)
+- calculating total revenue by region  =SUMIF($D1:$D50001,$D12630,$H1:$H50001)
 - ![Project 4](https://github.com/user-attachments/assets/7ceb8900-cb3f-409e-8c63-1b0f578998ef)
 
   ## Excel Chart
