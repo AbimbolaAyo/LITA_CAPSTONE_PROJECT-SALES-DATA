@@ -15,13 +15,13 @@ Referring to the Capstone Project Document, carry out the following exploratory 
 
 [DATA ANALYSIS:](data-analysis)
 
-[DASHBOARD OVERVIEW WITH POWERBI:].(dashboard overview with powerbi)
+[DASH BOARD OVERVIEW WITH POWER BI:](dashboard-overview-with-powerbi)
 
-[INSIGHTS GENERATION:].(insights generation)
+[INSIGHTS GENERATION:](insights-generation)
 
-[RECOMMENDATION:].(recommendation)
+[RECOMMENDATION:](recommendation)
 
-[CONCLUSION:].(conclusion)
+[CONCLUSION:](conclusion)
 
 ## PROJECT OVERVIEW:
 
