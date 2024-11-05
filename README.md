@@ -7,14 +7,22 @@ Referring to the Capstone Project Document, carry out the following exploratory 
 [ PROJECT OVERVIEW: ].(project-overview)
 
 [DATA DESCRIPTION:].(data-description)
+
 [DASH BOARD REVIEW:].(dashboard-review)
+
 [STATISTICS ABOUT THE DATASET:].(statistics about the dataset)
+
 [METHODOLOGY:].(methodology)
+
 [DATA ANALYSIS:].(data-analysis)
-[DASHBOARD OVERVIEW WITH POWERBI:]
-[INSIGHTS GENERATION:]
-[RECOMMENDATION:]
-[CONCLUSION:]
+
+[DASHBOARD OVERVIEW WITH POWERBI:].(dashboard overview with powerbi)
+
+[INSIGHTS GENERATION:].(insights generation)
+
+[RECOMMENDATION:].(recommendation)
+
+[CONCLUSION:].(conclusion)
 
 ## PROJECT OVERVIEW:
 
