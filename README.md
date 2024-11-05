@@ -5,7 +5,7 @@ Referring to the Capstone Project Document, carry out the following exploratory 
 
 [ PROJECT OVERVIEW: ](project-overview)
 
-[DATA DESCRIPTION:].(data-description)
+[ DATA DESCRIPTION: ].(data-description)
 
 [DASH BOARD REVIEW:].(dashboard-review)
 
