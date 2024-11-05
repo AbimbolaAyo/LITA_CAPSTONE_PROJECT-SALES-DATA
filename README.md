@@ -70,3 +70,18 @@ The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet wa
 - calculating average sales by product  =AVERAGEIF($C1:$C50001,$C2,$H1:$H50001)
 - ![Project 4](https://github.com/user-attachments/assets/d20ff639-09ae-4d4d-a0aa-9525fa845a04)
 
+- calculating total revenue by region  ==SUMIF($D1:$D50001,$D12630,$H1:$H50001)
+- ![Project 4](https://github.com/user-attachments/assets/7ceb8900-cb3f-409e-8c63-1b0f578998ef)
+
+  ## Excel Chart
+  
+  ![project 2](https://github.com/user-attachments/assets/8838f738-42d1-488a-ab80-5b3d1cdf905f)
+  ![Project 3](https://github.com/user-attachments/assets/cee8d208-0143-4d15-a4e0-195b3368c375)
+
+  ## Pivot Table
+
+  ![Project 1](https://github.com/user-attachments/assets/79365e24-f479-4f81-a0f5-b5682f081b48)
+
+
+
+
