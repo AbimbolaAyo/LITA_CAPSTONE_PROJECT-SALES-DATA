@@ -1,4 +1,3 @@
-
 # LITA_CAPSTONE_PROJECT-SALES-DATA
 Referring to the Capstone Project Document, carry out the following exploratory process and tell a compelling story by building an interactive dashboard report to gather insight and make business decisions.
 
