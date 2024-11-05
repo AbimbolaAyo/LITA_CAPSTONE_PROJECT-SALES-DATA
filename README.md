@@ -59,3 +59,8 @@ LITA_ The Incubator Hub provided the dataset for this analysis for learning and 
 The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet was further converted to CSV format for easy importing of files into:
 - SQL to write various queries
 - Power BI to create dashboards using various charts (PieChart and clustered Column Chart)
+
+## DATA ANALYSIS: 
+
+### Calculation in Excel
+- Generating Total Sales (=F2*G2)
