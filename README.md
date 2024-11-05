@@ -3,14 +3,13 @@ Referring to the Capstone Project Document, carry out the following exploratory 
 
 ## OUTLINE
 
-[ PROJECT OVERVIEW: ]
-(project-overview)
+[ PROJECT OVERVIEW: ].(project-overview)
 
-[DATA DESCRIPTION:]
-[DASH BOARD REVIEW:]
-[STATISTICS ABOUT THE DATA:]
-[METHODOLOGY:]
-[DATA ANALYSIS:]
+[DATA DESCRIPTION:].(data-description)
+[DASH BOARD REVIEW:].(dashboard-review)
+[STATISTICS ABOUT THE DATASET:].(statistics about the dataset)
+[METHODOLOGY:].(methodology)
+[DATA ANALYSIS:].(data-analysis)
 [DASHBOARD OVERVIEW WITH POWERBI:]
 [INSIGHTS GENERATION:]
 [RECOMMENDATION:]
@@ -56,4 +55,7 @@ This dataset includes the following Columns:
 
 Data Collection
 
-LITA_ The Incubator Hub provided the dataset for this analysis for leaening and training purposes. The data was provided in an Excel sheet [download Here] 
+LITA_ The Incubator Hub provided the dataset for this analysis for learning and training purposes. The data was provided in an Excel sheet [download Here].(https://canvas.instructure.com/files/273182802/download?download_frd=1)
+The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet was further converted to CSV format for easy importing of files into:
+- SQL to write various queries
+- Power BI to create dashboards using various charts (PieChart and clustered Column Chart)
