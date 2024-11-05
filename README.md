@@ -156,7 +156,7 @@ Indicates steady purchasing activity.
 
 ## CONCLUSION:
 
-The retail shops in the North and west region need more focus and attention on
+The retail shops in the North and west regions need more focus and attention on
 
 - boosting revenue through marketing strategies
 - studying market trends within the region to adequately decode the highest-selling product in the region, so as to stock more.
