@@ -66,3 +66,7 @@ The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet wa
 ### Calculation in Excel
 - Generating Total Sales (=F2*G2)
 - ![Total Sales for Sales Data](https://github.com/user-attachments/assets/7e90ba29-a176-4cd1-8c8b-9d03c9361b0e)
+
+- calculating average sales by product  =AVERAGEIF($C1:$C50001,$C2,$H1:$H50001)
+- ![Project 4](https://github.com/user-attachments/assets/d20ff639-09ae-4d4d-a0aa-9525fa845a04)
+
