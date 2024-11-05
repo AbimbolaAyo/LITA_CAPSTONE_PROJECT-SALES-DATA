@@ -3,7 +3,7 @@ Referring to the Capstone Project Document, carry out the following exploratory 
 
 ## OUTLINE
 
-[ PROJECT OVERVIEW: ](project-overview)
+[ PROJECT OVERVIEW: ](PROJECT-OVERVIEW)
 
 [ DATA DESCRIPTION: ](data-description)
 
