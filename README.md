@@ -86,38 +86,40 @@ The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet wa
 
 ``` SQL
   1. select product, sum (Quantity) as Quantity_Revenue from [dbo].[Sales data]
-Group by product
+     Group by product
 ```
 ```
   2. select Region, count (customer_id) as sales_by_region from [dbo].[Sales data]
-Group by Region
+     Group by Region
 ```
 ```
   3. select product, sum (Total_sales) as product_total_sales from [dbo].[Sales data]
-Group by product
-order by product_total_sales desc
+     Group by product
+     order by product_total_sales desc
 ```
 ```
   4. select orderdate, sum (Total_sales) as Totalsales from [dbo].[Sales data]
-where orderdate >='2024-01-01'
-group by orderdate
+     where orderdate >='2024-01-01'
+     group by orderdate
 ```
 ```
   5. select customer_id, sum (Total_sales) as Totalsales from [dbo].[Sales data]
-group by customer_id
-order by Totalsales desc
+     group by customer_id
+     order by Totalsales desc
 ```
 ```
   6. SELECT Region, SUM(Total_sales) AS RegionalSales, 
-(SUM(Total_sales) / CAST((SELECT SUM(Total_sales) FROM [dbo].[Sales data])
-AS DECIMAL(10, 2)) * 100) AS SalesPercentage
-FROM [dbo].[Sales data]
-GROUP BY Region
+     (SUM(Total_sales) / CAST((SELECT SUM(Total_sales) FROM [dbo].[Sales data])
+     AS DECIMAL(10, 2)) * 100) AS SalesPercentage
+     FROM [dbo].[Sales data]
+     GROUP BY Region
 ```
 ```
   7. SELECT DISTINCT  Product FROM [dbo].[Sales data]
-WHERE product Not In (select product from [dbo].[Sales data]
-Where OrderDate >= dateadd (quarter, -1, getdate ()) )
+     WHERE product Not In (select product from [dbo].[Sales data]
+     Where OrderDate >= dateadd (quarter, -1, getdate ()) )
 ```
-
+![Sql project 3](https://github.com/user-attachments/assets/76cc3fdd-50e5-4f4f-b42a-18f5e826f83b)
+![Sql Project 2](https://github.com/user-attachments/assets/0cb67e3b-57f7-4984-a49c-9443b585c293)
+![Sql project 1](https://github.com/user-attachments/assets/650e2889-d054-4043-a8ab-d5c14febe666)
 
