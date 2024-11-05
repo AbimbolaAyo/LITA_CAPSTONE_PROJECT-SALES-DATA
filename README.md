@@ -82,6 +82,8 @@ The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet wa
 
   ![Project 1](https://github.com/user-attachments/assets/79365e24-f479-4f81-a0f5-b5682f081b48)
 
+## Queries in SQL
+
 
 
 
