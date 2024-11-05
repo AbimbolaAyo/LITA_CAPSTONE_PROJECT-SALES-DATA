@@ -84,6 +84,28 @@ The Excel sheet made it accessible to analyze the Excel sheet The Excel sheet wa
 
 ## Queries in SQL
 
+- SQL
+  1. select product, sum (Quantity) as Quantity_Revenue from [dbo].[Sales data]
+Group by product
+2. select Region, count (customer_id) as sales_by_region from [dbo].[Sales data]
+Group by Region
+3. select product, sum (Total_sales) as product_total_sales from [dbo].[Sales data]
+Group by product
+order by product_total_sales desc
+4. select orderdate, sum (Total_sales) as Totalsales from [dbo].[Sales data]
+where orderdate >='2024-01-01'
+group by orderdate
+5. select customer_id, sum (Total_sales) as Totalsales from [dbo].[Sales data]
+group by customer_id
+order by Totalsales desc
+6. SELECT Region, SUM(Total_sales) AS RegionalSales, 
+(SUM(Total_sales) / CAST((SELECT SUM(Total_sales) FROM [dbo].[Sales data])
+AS DECIMAL(10, 2)) * 100) AS SalesPercentage
+FROM [dbo].[Sales data]
+GROUP BY Region
+7. SELECT DISTINCT  Product FROM [dbo].[Sales data]
+WHERE product Not In (select product from [dbo].[Sales data]
+Where OrderDate >= dateadd (quarter, -1, getdate ()) )
 
 
 
